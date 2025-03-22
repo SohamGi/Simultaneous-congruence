@@ -13,7 +13,7 @@ for i in range (0,n,1):
     remainder.append(int(input("Enter remainder:")))
     modulus.append(int(input("Enter modulus:")))
 
-#Finding value of modulus of result
+#Finding value of modulus of the result
 
 p=1
 
